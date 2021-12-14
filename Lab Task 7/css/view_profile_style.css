@@ -1,0 +1,93 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.error
+{
+	color: red;	
+}
+.wraper
+{
+	
+	width: 50%;
+	height: 300px;
+	border: 1px solid black;
+	margin: auto;
+	padding: auto;
+	
+}
+.hr_tag
+{
+	width: 80%;
+	margin-top: 10px;
+	border: 0.5px solid;
+	margin: auto;
+}
+.header_hr_tag
+{
+	width: 80%;
+	margin: auto;
+	padding: auto;
+	margin-top: 10px;
+	border: 0.5px solid;
+}
+.header
+{
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 10px;
+
+
+	
+}
+.img_design
+{
+	width: 150px;
+	height: 150px;
+	width: 180px;
+	height: 180px;
+	margin-top: 5px;
+
+}
+.Content
+{
+	margin: auto ;
+	padding: auto;
+	width: 90%;
+	height: 150px;
+	margin-bottom: 10px;
+}
+.Content_file
+{
+	margin: auto ;
+	padding: auto;
+	width: 90%;
+	height: 30px;
+	margin-top: 20px;
+}
+p
+{
+	font-size: 20px;
+	margin-top: 20px;
+}
+.edit_profile
+{
+	margin-top: 20px;
+	text-decoration: none;
+	font-size: 18px;
+	
+}
+.img
+{
+	float: right;
+	width: 45%;
+}
+.details
+{
+float: left;
+height: 100%;
+margin-left: 10px;
+}
